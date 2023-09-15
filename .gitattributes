@@ -1,1 +1,3 @@
-.github/editor-page/** -linguist-vendored
+*.css linguist-detect=CSS
+*.js linguist-detect=JavaScript
+*.vue linguist-detect=JavaScript
