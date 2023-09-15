@@ -2,4 +2,6 @@
 * linguist-vendored
 *.js linguist-detectable=false`
 *.html linguist-detectable=false
-*.xml linguist-detectable=false
+*.css linguist-language=CSS
+*.js linguist-language=JavaScript
+*.vue linguist-language=Vue
