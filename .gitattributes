@@ -1,6 +1,2 @@
-*.html linguist-language=HTML
-*.css linguist-language=CSS
-*.js linguist-language=JavaScript
-*.vue linguist-language=Vue
-*.js linguist-detectable=true
 *.html linguist-detectable=false
+* linguist-language=JavaScript
