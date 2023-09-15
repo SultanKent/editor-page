@@ -1,7 +1,8 @@
-*.cs linguist-detectable=true
 * linguist-vendored
-*.js linguist-detectable=false`
 *.html linguist-detectable=false
 *.css linguist-language=CSS
 *.js linguist-language=JavaScript
 *.vue linguist-language=Vue
+*.css linguist-detectable=true
+*.js linguist-detectable=true
+*.vue linguist-detectable=true
