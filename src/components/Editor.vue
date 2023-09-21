@@ -139,7 +139,7 @@ export default {
 .editor-container {
   display: flex;
   flex-direction: column;
-  width: 639px;
+  max-width: 639px;
   margin: 0 auto;
   gap: 31px;
 }
@@ -148,6 +148,7 @@ export default {
   display: flex;
   gap: 15px;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .editor {
